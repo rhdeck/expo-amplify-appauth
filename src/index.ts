@@ -35,7 +35,7 @@ WebBrowser.maybeCompleteAuthSession();
  * @param config Options for initializing Amplify authentication using AppAuth in Expo
  * @returns
  */
-export default function useAmplifyAppAuth(config: {
+export function useAmplifyAppAuth(config: {
   authorizationEndpoint?: string;
   tokenEndpoint?: string;
   endPoint?: string;
@@ -214,3 +214,4 @@ export default function useAmplifyAppAuth(config: {
     isLoggedIn,
   };
 }
+export default useAmplifyAppAuth;
