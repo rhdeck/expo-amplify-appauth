@@ -15,9 +15,9 @@ This has been tested on user pools, but not identity pools.
 
 <a name="_librarymd"></a>
 
-expo-amplify-appauth - v1.0.0
+expo-amplify-appauth - v1.0.1
 
-# expo-amplify-appauth - v1.0.0
+# expo-amplify-appauth - v1.0.1
 
 ## Table of contents
 
@@ -70,4 +70,4 @@ Renames and exports: [useAmplifyAppAuth](#useamplifyappauth)
 
 #### Defined in
 
-[index.ts:38](https://github.com/rhdeck/expo-amplify-appauth/blob/cdae79f/src/index.ts#L38)
+[index.ts:38](https://github.com/rhdeck/expo-amplify-appauth/blob/643b9f4/src/index.ts#L38)
