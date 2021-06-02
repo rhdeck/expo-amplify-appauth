@@ -21,15 +21,25 @@ expo-amplify-appauth - v1.0.0
 
 ## Table of contents
 
-### Functions
+### References
 
 - [default](#default)
 
-## Functions
+### Functions
+
+- [useAmplifyAppAuth](#useamplifyappauth)
+
+## References
 
 ### default
 
-▸ **default**(`config`): `Object`
+Renames and exports: [useAmplifyAppAuth](#useamplifyappauth)
+
+## Functions
+
+### useAmplifyAppAuth
+
+▸ **useAmplifyAppAuth**(`config`): `Object`
 
 #### Parameters
 
@@ -60,4 +70,4 @@ expo-amplify-appauth - v1.0.0
 
 #### Defined in
 
-[index.ts:38](https://github.com/rhdeck/expo-amplify-appauth/blob/d85b99a/src/index.ts#L38)
+[index.ts:38](https://github.com/rhdeck/expo-amplify-appauth/blob/cdae79f/src/index.ts#L38)
